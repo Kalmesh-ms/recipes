@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+    font-family: "Lucida Console",'Courier New', Courier, monospace;
+}
+
+h1{
+    color: darkred;
+}
+
+h2{
+    color:darkblue;
+}
+
+img {
+    width: 450px;
+    height: auto;
+}
